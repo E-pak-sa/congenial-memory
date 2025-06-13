@@ -1,4 +1,4 @@
-# Implicit detection 
+# Topic-Sensitive Signals for Depression Detection
 # Topic Modeling with BERTopic
 ## Overview
 This project performs topic modeling on a large corpus of textual data using BERTopic. It includes preprocessing, embedding generation using Sentence-BERT, dimensionality reduction with UMAP, clustering via KMeans, and topic extraction using BERTopic. The final result includes both topic assignments and a visualization of the discovered topics.
@@ -118,6 +118,7 @@ Modify this value to increase or decrease the number of samples processed.
 
 
 # Model Finetuning
+Please refer to model_finetuning.ipynb
 
 ## Overview
 
